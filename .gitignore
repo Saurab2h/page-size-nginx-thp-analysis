@@ -1,0 +1,17 @@
+*.aux
+*.log
+*.out
+*.toc
+*.gz
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.nav
+*.snm
+*.vrb
+*.zip
+__pycache__/
+*.pyc
+paper/ieee-paper/*.aux
+paper/ieee-paper/*.log
+paper/ieee-paper/*.out

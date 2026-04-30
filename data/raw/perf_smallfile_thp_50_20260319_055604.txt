@@ -1,0 +1,17 @@
+# started on Thu Mar 19 05:56:05 2026
+
+
+ Performance counter stats for 'system wide':
+
+             1,770      page-faults                                                           
+             1,766      minor-faults                                                          
+                 4      major-faults                                                          
+                 0      dTLB-load-misses                                                      
+   <not supported>      cache-misses                                                          
+   <not supported>      cycles                                                                
+   <not supported>      instructions                                                          
+            67,587      context-switches                                                      
+                42      cpu-migrations                                                        
+
+      10.813979951 seconds time elapsed
+
